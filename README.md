@@ -66,7 +66,7 @@
     <p> ek jaise dost sare nahi hote </p>
     <p>kuch humare hokar bhi humare nahi hote</p>
     <p>aapse dosti karne ke baad mahsoos hua </p>
-    <p> kaun kahta hai tare jameen par nahi hote </p>
+    <p> kaun kahta hai jameen par tare nahi hote </p>
 
 
 
